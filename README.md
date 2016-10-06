@@ -1,5 +1,7 @@
 下面是一些我读过的书。
 
+2016年10月6日更新。下一次更新：2017年1月1日。
+
 
 ## 索引
 
@@ -32,6 +34,7 @@
 
 1. [土摩托看世界](https://book.douban.com/subject/20258503/), by 土摩托, 2014年
 1. [土摩托看世界 II](https://book.douban.com/subject/25934263/), by 土摩托, 2014年
+1. [民主的细节](https://book.douban.com/subject/3813669/), by 刘瑜, 2013年
 
 ## 科学
 
